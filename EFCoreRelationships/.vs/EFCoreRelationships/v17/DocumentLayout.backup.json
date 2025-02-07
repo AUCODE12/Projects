@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Projects\\EFCoreRelationships\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\addcharacterskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\addcharacterskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\migrations\\20250204103544_characterskillrealationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\migrations\\20250204103544_characterskillrealationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\migrations\\20250204051918_characterweaponrealationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\migrations\\20250204051918_characterweaponrealationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\addweapondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\addweapondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\migrations\\20250203072327_userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\migrations\\20250203072327_userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\migrations\\20250203074406_usercharacterrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\migrations\\20250203074406_usercharacterrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\createcharacterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\createcharacterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|d:\\projects\\projects\\efcorerelationships\\efcorerelationships\\efcorerelationships.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A25C34C2-27FB-4081-B162-684C6C71FC11}|EFCoreRelationships\\EFCoreRelationships.csproj|solutionrelative:efcorerelationships\\efcorerelationships.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCharacterSkillDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\AddCharacterSkillDto.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\AddCharacterSkillDto.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\AddCharacterSkillDto.cs",
+              "RelativeToolTip": "EFCoreRelationships\\AddCharacterSkillDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:21:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250204103544_CharacterSkillRealationship.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250204103544_CharacterSkillRealationship.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Migrations\\20250204103544_CharacterSkillRealationship.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250204103544_CharacterSkillRealationship.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Migrations\\20250204103544_CharacterSkillRealationship.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:35:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Skill.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Skill.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Skill.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:29:54.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddWeaponDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\AddWeaponDto.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\AddWeaponDto.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\AddWeaponDto.cs",
+              "RelativeToolTip": "EFCoreRelationships\\AddWeaponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:06:31.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250204051918_CharacterWeaponRealationship.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250204051918_CharacterWeaponRealationship.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Migrations\\20250204051918_CharacterWeaponRealationship.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250204051918_CharacterWeaponRealationship.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Migrations\\20250204051918_CharacterWeaponRealationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:54:54.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Weapon.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Weapon.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Weapon.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:21:26.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCharacterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\CreateCharacterDto.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\CreateCharacterDto.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\CreateCharacterDto.cs",
+              "RelativeToolTip": "EFCoreRelationships\\CreateCharacterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:31:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Controllers\\CharacterController.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Controllers\\CharacterController.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Controllers\\CharacterController.cs*",
+              "RelativeToolTip": "EFCoreRelationships\\Controllers\\CharacterController.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0sAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:15:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250203072327_UserEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250203072327_UserEntity.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Migrations\\20250203072327_UserEntity.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250203072327_UserEntity.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Migrations\\20250203072327_UserEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:45:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:44:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250203074406_UserCharacterRelation.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250203074406_UserCharacterRelation.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Migrations\\20250203074406_UserCharacterRelation.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Migrations\\20250203074406_UserCharacterRelation.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Migrations\\20250203074406_UserCharacterRelation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:44:14.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EFCoreRelationships.http",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\EFCoreRelationships.http",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\EFCoreRelationships.http",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\EFCoreRelationships.http",
+              "RelativeToolTip": "EFCoreRelationships\\EFCoreRelationships.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-03T07:43:36.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Character.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Character.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Character.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Character.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:37:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\User.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\User.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\User.cs",
+              "RelativeToolTip": "EFCoreRelationships\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:09:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Program.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Program.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:00:04.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\appsettings.json",
+              "RelativeToolTip": "EFCoreRelationships\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T06:51:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EFCoreRelationships\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Projects\\Projects\\EFCoreRelationships\\EFCoreRelationships\\Data\\DataContext.cs",
+              "RelativeToolTip": "EFCoreRelationships\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:49:59.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
