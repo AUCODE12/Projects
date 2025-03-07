@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Menu\\",
+  "WorkspaceRootPath": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\projects\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|d:\\.net (qo\u0027shimcha)\\projects\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE82ECDF-B516-4DF6-A432-263719C2CCE7}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Menu\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Menu\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T10:25:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Menu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Menu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T16:50:32.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
               "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Details.cshtml",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
               "RelativeToolTip": "Menu\\Views\\Menu\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T14:12:03.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T14:12:03.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
               "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
               "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T13:11:36.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "Menu\\Controllers\\MenuController.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "Menu\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T13:10:14.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T13:11:36.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Menu\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Menu\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T13:09:22.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Program.cs",
-              "RelativeDocumentMoniker": "Menu\\Program.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Program.cs",
-              "RelativeToolTip": "Menu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:21:38.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T13:10:14.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MenuContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Data\\MenuContext.cs",
-              "RelativeDocumentMoniker": "Menu\\Data\\MenuContext.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Data\\MenuContext.cs",
-              "RelativeToolTip": "Menu\\Data\\MenuContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDAAAAAKAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:40:56.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T13:09:22.445Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:21:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Menu\\Data\\MenuContext.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Menu\\Data\\MenuContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:40:56.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DishIngredient.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\DishIngredient.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\DishIngredient.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\DishIngredient.cs",
               "RelativeToolTip": "Menu\\Models\\DishIngredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:37:42.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:37:42.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Ingredient.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Models\\Ingredient.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\Ingredient.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Models\\Ingredient.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\Ingredient.cs",
               "RelativeToolTip": "Menu\\Models\\Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:35:51.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:35:51.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Dish.cs",
-              "DocumentMoniker": "D:\\Projects\\Menu\\Menu\\Models\\Dish.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\Dish.cs",
               "RelativeDocumentMoniker": "Menu\\Models\\Dish.cs",
-              "ToolTip": "D:\\Projects\\Menu\\Menu\\Models\\Dish.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\Menu\\Menu\\Models\\Dish.cs",
               "RelativeToolTip": "Menu\\Models\\Dish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:34:30.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:34:30.993Z"
             }
           ]
         }

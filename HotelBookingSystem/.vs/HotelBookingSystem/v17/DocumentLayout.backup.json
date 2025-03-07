@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\migrations\\20250306033554_newpropaddedcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\migrations\\20250306033554_newpropaddedcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|solutionrelative:hotelbookingsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.api\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|solutionrelative:hotelbookingsystem.api\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2F774E-021D-4C05-9D28-3F42FB4580F0}|HotelBookingSystem.Api\\HotelBookingSystem.Api.csproj|solutionrelative:hotelbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|d:\\.net (qo\u0027shimcha)\\projects\\hotelbookingsystem\\hotelbookingsystem.dal\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59504654-7F80-43F8-ADF7-821B5A3B6ECB}|HotelBookingSystem.Dal\\HotelBookingSystem.Dal.csproj|solutionrelative:hotelbookingsystem.dal\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250306033554_NewPropAddedCustomer.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Migrations\\20250306033554_NewPropAddedCustomer.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Migrations\\20250306033554_NewPropAddedCustomer.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Migrations\\20250306033554_NewPropAddedCustomer.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Migrations\\20250306033554_NewPropAddedCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:35:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Api\\Program.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\Program.cs",
+              "RelativeToolTip": "HotelBookingSystem.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:31:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Api\\Configurations\\DatabaseConfiguration.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\Configurations\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "HotelBookingSystem.Api\\Configurations\\DatabaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:28:20.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Api\\appsettings.Development.json",
+              "RelativeToolTip": "HotelBookingSystem.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T11:53:28.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\MainContext.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\MainContext.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\MainContext.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\MainContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:52:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Complaint.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Complaint.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Complaint.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Complaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:49:35.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Review.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Review.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:48:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Payment.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Payment.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:48:22.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Booking.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Booking.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:47:52.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Service.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Service.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:46:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Employee.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Employee.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:45:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Hotel.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Hotel.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:44:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Room.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Room.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:45:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem.Dal\\Entities\\Customer.cs",
+              "ToolTip": "D:\\.Net (qo\u0027shimcha)\\Projects\\HotelBookingSystem\\HotelBookingSystem.Dal\\Entities\\Customer.cs",
+              "RelativeToolTip": "HotelBookingSystem.Dal\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:42:25.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
